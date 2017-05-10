@@ -1,6 +1,8 @@
 Bolierplate for React projects
 ==============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/satya164/react-boilerplate.svg)](https://greenkeeper.io/)
+
 An simple webpack boilerplate for React projects.
 
 ## Features
